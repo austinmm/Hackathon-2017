@@ -1,0 +1,141 @@
+
+
+Here is the data we processed in column Region
+The value East appears 13 times in this column.
+The value Central appears 14 times in this column.
+The value West appears 5 times in this column.
+The value South appears 4 times in this column.
+The value North appears 3 times in this column.
+The average value of the data set in this column is not computable.
+The maximum and minimum value of the data set in this column is not computable.
+
+
+Here is the data we processed in column Rep
+The value Jones appears 7 times in this column.
+The value Kivell appears 2 times in this column.
+The value Jardine appears 2 times in this column.
+The value Gill appears 2 times in this column.
+The value Sorvino appears 1 times in this column.
+The value Andrews appears 1 times in this column.
+The value Thompson appears 2 times in this column.
+The value Morgan appears 3 times in this column.
+The value Howard appears 3 times in this column.
+The value Parent appears 3 times in this column.
+The value Smith appears 4 times in this column.
+The value Johnson appears 2 times in this column.
+The value Pete appears 2 times in this column.
+The value Sprint appears 2 times in this column.
+The value TJ appears 2 times in this column.
+The value Goode appears 1 times in this column.
+The average value of the data set in this column is not computable.
+The maximum and minimum value of the data set in this column is not computable.
+
+
+Here is the data we processed in column Item
+The value Pencil appears 13 times in this column.
+The value Binder appears 12 times in this column.
+The value Pen appears 6 times in this column.
+The value Desk appears 3 times in this column.
+The value Pen Set appears 4 times in this column.
+The value Paper appears 1 times in this column.
+The average value of the data set in this column is not computable.
+The maximum and minimum value of the data set in this column is not computable.
+
+
+Here is the data we processed in column Units
+The value 95 appears 1 times in this column.
+The value 50 appears 1 times in this column.
+The value 36 appears 1 times in this column.
+The value 27 appears 1 times in this column.
+The value 56 appears 1 times in this column.
+The value 60 appears 2 times in this column.
+The value 75 appears 1 times in this column.
+The value 90 appears 2 times in this column.
+The value 32 appears 1 times in this column.
+The value 29 appears 1 times in this column.
+The value 81 appears 1 times in this column.
+The value 35 appears 1 times in this column.
+The value 2 appears 1 times in this column.
+The value 16 appears 1 times in this column.
+The value 28 appears 1 times in this column.
+The value 64 appears 2 times in this column.
+The value 15 appears 2 times in this column.
+The value 96 appears 1 times in this column.
+The value 67 appears 1 times in this column.
+The value 74 appears 1 times in this column.
+The value 46 appears 1 times in this column.
+The value 87 appears 1 times in this column.
+The value 4 appears 2 times in this column.
+The value 40 appears 2 times in this column.
+The value 30 appears 1 times in this column.
+The value 70 appears 1 times in this column.
+The value 25 appears 1 times in this column.
+The value 59 appears 1 times in this column.
+The value 45 appears 1 times in this column.
+The value 80 appears 1 times in this column.
+The value 5 appears 1 times in this column.
+The value 34 appears 1 times in this column.
+The value 20 appears 1 times in this column.
+The average value of the data set in this column is: 47.3333333333.
+The largest value is 96 and the smallest value 2 in this column.
+
+
+Here is the data we processed in column UnitCost
+The value 1.99 appears 8 times in this column.
+The value 19.99 appears 7 times in this column.
+The value 4.99 appears 7 times in this column.
+The value 2.99 appears 1 times in this column.
+The value 8.99 appears 6 times in this column.
+The value 125.0 appears 3 times in this column.
+The value 15.99 appears 3 times in this column.
+The value 1.29 appears 1 times in this column.
+The value 15.0 appears 1 times in this column.
+The value 9.99 appears 1 times in this column.
+The value 5.99 appears 1 times in this column.
+The average value of the data set in this column is: 18.0243589744.
+The largest value is 125.0 and the smallest value 1.29 in this column.
+
+
+Here is the data we processed in column Total
+The value 189.05 appears 1 times in this column.
+The value 999.5 appears 1 times in this column.
+The value 179.64 appears 1 times in this column.
+The value 539.73 appears 1 times in this column.
+The value 167.44 appears 1 times in this column.
+The value 299.4 appears 1 times in this column.
+The value 149.25 appears 1 times in this column.
+The value 449.1 appears 2 times in this column.
+The value 63.68 appears 1 times in this column.
+The value 539.4 appears 1 times in this column.
+The value 57.71 appears 1 times in this column.
+The value 1619.19 appears 1 times in this column.
+The value 174.65 appears 1 times in this column.
+The value 250.0 appears 1 times in this column.
+The value 255.84 appears 1 times in this column.
+The value 251.72 appears 1 times in this column.
+The value 575.36 appears 1 times in this column.
+The value 299.85 appears 2 times in this column.
+The value 479.04 appears 1 times in this column.
+The value 86.43 appears 1 times in this column.
+The value 1183.26 appears 1 times in this column.
+The value 413.54 appears 1 times in this column.
+The value 1305.0 appears 1 times in this column.
+The value 19.96 appears 1 times in this column.
+The value 79.6 appears 1 times in this column.
+The value 599.7 appears 1 times in this column.
+The value 699.3 appears 1 times in this column.
+The value 224.75 appears 1 times in this column.
+The value 530.41 appears 1 times in this column.
+The value 799.6 appears 1 times in this column.
+The value 269.55 appears 1 times in this column.
+The value 159.2 appears 1 times in this column.
+The value 127.36 appears 1 times in this column.
+The value 625.0 appears 1 times in this column.
+The value 500.0 appears 1 times in this column.
+The value 543.66 appears 1 times in this column.
+The value 39.8 appears 1 times in this column.
+The average value of the data set in this column is: 422.938974359.
+The largest value is 1619.19 and the smallest value 19.96 in this column.
+
+
+Here is the data we processed in column Region
